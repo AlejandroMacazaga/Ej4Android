@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paises">
+        <item>USA</item>
+        <item>Spain</item>
+        <item>UK</item>
+        <item>France</item>
+        <item>South Africa</item>
+        <item>China</item>
+    </string-array>
+    <string-array name="populations">
+        <item>USA: 5000000</item>
+        <item>Spain: 2000000</item>
+        <item>UK: 1658435</item>
+        <item>France: 18462254</item>
+        <item>South Africa: 2</item>
+        <item>China: 9999999999999</item>
+
+    </string-array>
+</resources>
